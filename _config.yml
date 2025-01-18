@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            EATceed 개인정보처리방침
+longtitle:        EATceed 개인정보처리방침
 author:           HE Tao
-email:            sighingnow@gmail.com
+email:            eatceed@gamil.com
 description: >
-  Build Jekyll site with the GitBook style.
+  EATceed 개인정보처리방침 문서입니다.
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -51,10 +51,10 @@ exclude:
 
 collections:
   pages:
-    output: true
+    output: false
     permalink: /:collection/:path/
   others:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 ordered_collections:
