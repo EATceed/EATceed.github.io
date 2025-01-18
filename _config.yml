@@ -68,6 +68,9 @@ destination:      ./_site
 incremental:      false
 regenerate:       true
 
+future: true
+published: true
+
 plugins:
   - jekyll-feed
   - jekyll-readme-index
